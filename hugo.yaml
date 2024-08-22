@@ -1,0 +1,34 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Test
+theme: "PaperMod"
+defaultContentLanguage: fr
+
+menu:
+  main:
+       - name: Rechercher
+         url: search
+         weight: 10
+       - name: Catégories
+         url: categories
+         weight: 20
+       - name: Mots-clés
+         url: tags
+         weight: 30
+       - name: Archives
+         url: archives
+         weight: 40
+        
+outputs:
+ home:
+   - HTML
+   - RSS
+   - JSON # necessary for search
+
+
+params:
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowWordCount: true

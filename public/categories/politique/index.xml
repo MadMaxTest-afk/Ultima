@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Politique on Test</title>
+    <link>http://localhost:1313/categories/politique/</link>
+    <description>Recent content in Politique on Test</description>
+    <generator>Hugo -- 0.132.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Aug 2024 10:47:26 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/politique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon Premier Article</title>
+      <link>http://localhost:1313/posts/mon-premier-article/</link>
+      <pubDate>Thu, 22 Aug 2024 10:47:26 +0200</pubDate>
+      <guid>http://localhost:1313/posts/mon-premier-article/</guid>
+      <description>Instructions et installations Source du tutoriel : ici
+Hugo est un générateur de sites statiques. Vous allez pouvoir construire rapidement, et simplement, un site web rapide, sécurisé, et sans coût d’hébergement. Les sites statiques permettent de déployer très simplement des pages HTML en partant de fichiers en Markdown. Comprendre et maîtriser les générateurs de sites statiques, c’est aller à l’essentiel : se concentrer sur les contenus que l’on affiche en ligne, prendre en main une interface qui ne se transforme en « usine à gaz » et qui est moins sensible aux problèmes de sécurité (par exemple, les lourdeurs et failles d’un WordPress).</description>
+    </item>
+    <item>
+      <title>Mon Deuxième Article</title>
+      <link>http://localhost:1313/posts/mon-premier-article-copy/</link>
+      <pubDate>Mon, 22 Jul 2024 10:47:26 +0200</pubDate>
+      <guid>http://localhost:1313/posts/mon-premier-article-copy/</guid>
+      <description>Instructions et installations Source du tutoriel : ici
+Hugo est un générateur de sites statiques. Vous allez pouvoir construire rapidement, et simplement, un site web rapide, sécurisé, et sans coût d’hébergement. Les sites statiques permettent de déployer très simplement des pages HTML en partant de fichiers en Markdown. Comprendre et maîtriser les générateurs de sites statiques, c’est aller à l’essentiel : se concentrer sur les contenus que l’on affiche en ligne, prendre en main une interface qui ne se transforme en « usine à gaz » et qui est moins sensible aux problèmes de sécurité (par exemple, les lourdeurs et failles d’un WordPress).</description>
+    </item>
+  </channel>
+</rss>
