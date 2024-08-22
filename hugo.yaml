@@ -28,7 +28,7 @@ outputs:
 
 params:
   ShowReadingTime: true
-  ShowShareButtons: false
+  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowWordCount: true
